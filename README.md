@@ -21,31 +21,33 @@
 
 
 ## Cấu trúc mô hình của chương trình
-![moHinhMVC](https://github.com/lebathang/QuanLiThuVien/blob/main/Images/MoHinhMVC.png?raw=true)
+![moHinhMVC](https://github.com/lebathang/QuanLiThuVien/blob/master/Images/MoHinhMVC.png?raw=true)
 
 ## Giao diện chính
-![giaoDien](https://github.com/lebathang/QuanLiThuVien/blob/main/Images/GUI_QLTV.png?raw=true)
+![giaoDien](https://github.com/lebathang/QuanLiThuVien/blob/master/Images/GUI_QLTV.png?raw=true)
 
 ## Một số tính năng của chương trình
 
 #### Save/Open
-![save_open](https://github.com/lebathang/QuanLiThuVien/blob/main/Images/save_openFile.png?raw=true)
+![save_open](https://github.com/lebathang/QuanLiThuVien/blob/master/Images/save_openFile.png?raw=true)
 
 ## Cấu trúc thư mục
 ```
 $ Cấu trúc thư mục
 .
 ├── Images
-│   ├── 
-├── 
-│   ├── 
-│   └── 
-├── 
-│   ├── src
-├──      └──  
-│   ├── 
-│   	└── 
-│   	└── 
+│  
+├── source   
+│       └── controller
+|              └── QLTVController
+│   	└── model
+|              └── QLTVModel
+|              └── SachBao
+|              └── TheLoai
+│   	└── test
+|              └── test
+|       └── view
+|               └── QLTVView
 └── README.md
 
 ```
