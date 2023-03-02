@@ -40,11 +40,11 @@ $ Cấu trúc thư mục
 ├── source   
 │       └── controller
 |       |      └── QLTVController
-│   	└── model
+│   	├── model
 |       |      └── QLTVModel
 |       |      └── SachBao
 |       |      └── TheLoai
-│   	└── test
+│   	├── test
 |       |      └── test
 |       └── view
 |              └── QLTVView
