@@ -36,18 +36,19 @@
 $ Cấu trúc thư mục
 .
 ├── Images
-│  
+│
 ├── source   
 │       └── controller
-|              └── QLTVController
+|       |      └── QLTVController
 │   	└── model
-|              └── QLTVModel
-|              └── SachBao
-|              └── TheLoai
+|       |      └── QLTVModel
+|       |      └── SachBao
+|       |      └── TheLoai
 │   	└── test
-|              └── test
+|       |      └── test
 |       └── view
-|               └── QLTVView
+|              └── QLTVView
+|
 └── README.md
 
 ```
